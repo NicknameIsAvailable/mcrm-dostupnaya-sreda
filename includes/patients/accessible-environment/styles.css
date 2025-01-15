@@ -1,0 +1,531 @@
+.modal_z {
+    display: none;
+    position: fixed;
+    z-index: 999;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.first {
+    margin-top: 168px;
+}
+
+.info__description {
+    margin-top: 49px;
+}
+
+.modal_z-content {
+    --padding-modal-content: 20px;
+
+    margin: 0 auto;
+    padding: var(--padding-modal-content);
+    max-width: 960px;
+    width: 100%;
+}
+
+.headerBlock {
+    background: linear-gradient(90deg, #EDBCD0 0%, #D4CBE1 50.73%, #C0D7EF 98.61%);
+    display: flex;
+    flex-direction: column;
+    gap: 35px;
+    align-items: flex-start;
+    padding: 50px;
+    max-width: 920px;
+    margin: 0 auto;
+}
+
+.headerBlock h1 {
+    color: #4D3651;
+    text-align: start;
+    font-family: PT Sans, Arial, sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 50px;
+    letter-spacing: 1.28px;
+    max-width: 883px;
+}
+
+.headerBlock p {
+    color: #4D3651;
+    text-align: start;
+    font-family: PT Sans, Arial, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 0;
+}
+
+.headerBlock a.headerBlock_readPdf {
+    color: #FFF !important;
+    font-family: PT Sans, Arial, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    border-radius: 5px;
+    background: #8BB8E8;
+    padding: 16px 92px;
+    text-decoration: none;
+}
+
+.modal_formContent * {
+    margin: 0;
+    padding: 0;
+}
+
+.taxReference p {
+    font-size: 18px;
+    line-height: 29px;
+}
+
+.modal_formContent p {
+    margin-bottom: 20px;
+}
+
+.taxReference {
+    box-sizing: border-box;
+    max-width: 920px;
+    background-color: white;
+    box-shadow: 0px 0px 50px 0px #926EAB33;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.modal_formContent {
+    margin: 0 auto 70px auto;
+    padding: 50px;
+}
+
+.taxReference .taxReference_term {
+    font-weight: 700;
+    margin-bottom: 8px;
+}
+
+.taxReference h2 {
+    margin: 70px 0 25px;
+    font-size: 22px;
+    line-height: 29px;
+    font-weight: 700;
+}
+
+.taxReference fieldset {
+    border-bottom: 1px solid #D9D9D9;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+}
+
+.taxReference .taxReference_grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px 30px;
+}
+
+.taxReference .taxReference_grid-item {
+    display: grid;
+}
+
+.taxReference .taxReference_grid-item label {
+    color: #AFA5B1;
+    font-size: 12px;
+    line-height: 15px;
+}
+
+.taxReference .taxReference_grid-item input {
+    height: 50px;
+    border: 1px solid #8BB8E8;
+    padding: 15px 21px;
+}
+
+.taxReference p.taxpayer,
+.taxReference label[for="file"] {
+    font-size: 12px;
+    line-height: 16px;
+    color: #A7A7A7;
+    margin-bottom: 0;
+}
+
+.year_group {
+    margin-bottom: 7px;
+}
+
+.year_group input {
+    display: none;
+}
+
+.year_group input + label {
+    position: relative;
+    display: flex;
+    align-items: center;
+    color: #000;
+    cursor: pointer;
+    user-select: none;
+    font-size: 18px;
+    line-height: 28px;
+    gap: 14px;
+}
+
+.year_group input + label:before {
+    content: '';
+    width: 22px;
+    height: 22px;
+    border-radius: 50%;
+    border: 1px solid #4D3651;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+.year_group input:checked + label::before {
+    background-image: url(/local/templates/main/label.png);
+}
+
+input[type="file"] {
+    display: none;
+}
+
+.taxReference_file {
+    padding-top: 15px;
+}
+
+.taxReference_file p {
+    font-size: 12px;
+    line-height: 15px;
+    color: #AFA5B1;
+}
+
+.taxReference_file_border {
+    border: 1px dashed #8BB8E8;
+    padding: 0 11px;
+}
+
+.taxReference_file label {
+    position: relative;
+}
+
+.taxReference_file label[for="file"]:after {
+    content: '';
+    display: block;
+    width: 100%;
+    height: 50px;
+}
+
+.taxReference_file label[for="file"]:before {
+    display: block;
+    content: 'ÐŸÑ€Ð¸ÐºÑ€ÐµÐ¿Ð¸Ñ‚ÑŒ';
+    text-decoration: underline;
+    font-size: 12px;
+    line-height: 15px;
+    color: #AFA5B1;
+    position: absolute;
+    left: 0;
+    bottom: 17.5px;
+}
+
+.taxReference_file p {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+button.removeItem {
+    width: 10px;
+    height: 10px;
+    border: unset;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-color: unset;
+    background-image: url(/local/templates/main/remove.png);
+    cursor: pointer;
+}
+
+.taxReference select {
+    background-color: #F6F6F6;
+    padding: 15px 21px;
+    border: unset;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+
+.sity_adress {
+    display: none;
+}
+
+.sity_adress.active {
+    display: block;
+}
+
+.taxReference_comment {
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.taxReference_comment textarea {
+    width: 100%;
+    min-height: 160px;
+    max-height: 160px;
+    resize: none;
+    border-radius: 5px;
+    background-color: #F6F6F6;
+    border: unset;
+    padding: 13px;
+    color: #848484;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+.comment_counter {
+    position: absolute;
+    bottom: 13px;
+    right: 13px;
+    z-index: 1;
+}
+
+.taxReference_grid.pp {
+    align-items: center;
+}
+
+.taxReference .approval,
+.taxReference .approval * {
+    font-size: 12px;
+    line-height: 19.2px;
+    color: #4D3651;
+    margin-bottom: 0;
+    max-width: 230px;
+}
+
+.taxReference .taxReference_grid-item input[type="submit"] {
+    /*background-color: #3389B4;*/
+    background-color: #8BB8E8;
+    border: unset;
+    border-radius: 5px;
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.policy_container {
+    font-size: 12px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    margin-top: 20px;
+}
+
+.policy_container input {
+    display: none;
+}
+
+/*.policy_container input + label:before {
+    content: '';
+    min-width: 22px;
+    min-height: 22px;
+    border-radius: 50%;
+    border: 1px solid #4D3651;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: auto;
+}*/
+
+.checkbox__input {
+    display: none;
+}
+
+.checkbox__label {
+    position: relative;
+    padding-left: 27px;
+    min-height: 22px;
+    line-height: 22px;
+    font-size: .875rem;
+    color: #4d3651;
+    letter-spacing: .02em;
+    cursor: pointer;
+}
+
+.checkbox__input:checked + label.checkbox__label:before {
+    opacity: 1;
+    background-color: #8bb8e8;
+}
+
+.checkbox__label-icon {
+    position: absolute;
+    width: 13px;
+    height: 11px;
+    left: 5px;
+    top: 3px;
+    z-index: 3;
+    -webkit-transition: -webkit-transform .1s ease-in .2s;
+    transition: -webkit-transform .1s ease-in .2s;
+    -o-transition: transform .1s ease-in .2s;
+    transition: transform .1s ease-in .2s;
+    transition: transform .1s ease-in .2s, -webkit-transform .1s ease-in .2s;
+    color: #fff;
+    -webkit-transform: scale(.1);
+    -ms-transform: scale(.1);
+    transform: scale(.1);
+}
+
+.checkbox__label:before {
+    content: "";
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border: 1px solid #8bb8e8;
+    border-radius: 2px;
+    background-color: #fff;
+    top: 50%;
+    margin-top: -11px;
+    left: 0;
+    z-index: 1;
+    -webkit-transition: all .1s ease-in;
+    -o-transition: all ease-in .1s;
+    transition: all .1s ease-in;
+}
+
+/*.policy_container input + label {
+    position: relative;
+    display: flex;
+    align-items: center;
+    color: #000;
+    cursor: pointer;
+    user-select: none;
+    font-size: 18px;
+    line-height: 28px;
+    gap: 14px;
+}
+
+.policy_container input:checked + label::before {
+    background-image: url(/local/templates/main/label.png);
+}*/
+
+/* Ð¡Ñ‚Ð¸Ð»Ð¸ Ð¼Ð¾Ð´Ð°Ð»ÑŒÐ½Ð¾Ð³Ð¾ Ð¾ÐºÐ½Ð° */
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.taxReference_grid-item > label {
+    margin-bottom: 4px;
+}
+
+
+.policy_popup {
+    display: none;
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    z-index: 100000000;
+}
+
+.policy_popup.active {
+    display: block;
+}
+
+.policy_popup .overlay {
+    width: 100%;
+    height: 100%;
+    background: rgba(56, 58, 63, 0.44);
+}
+
+.policy_popup_content {
+    background-color: #fff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 64px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.policy_popup_content .modal-info__body {
+    max-height: 70vh;
+    overflow-y: scroll;
+}
+
+#policy_popupButton {
+    cursor: pointer;
+}
+
+#spravka_button {
+    height: max-content !important;
+}
+
+@media screen and (max-width: 1253px) {
+    .taxReference .taxReference_grid {
+        grid-template-columns: 1fr;
+    }
+
+    .close {
+        margin-left: 16px;
+    }
+}
+
+@media screen and (max-width: 881px) {
+    .close {
+        position: absolute;
+        top: calc(16px + var(--padding-modal-content));
+        right: calc(16px + var(--padding-modal-content));
+    }
+
+    .headerBlock p {
+        font-size: 16px;
+    }
+
+    .headerBlock h1 {
+        font-size: 28px;
+        line-height: normal;
+    }
+
+    .headerBlock a.headerBlock_readPdf {
+        font-size: 16px;
+        padding: 12px 64px;
+    }
+
+    .headerBlock, .modal_formContent {
+        padding: 20px;
+    }
+
+    .modal_formContent {
+        margin-bottom: 0;
+    }
+}
+
+@media screen and (max-width: 551px) {
+    .headerBlock {
+        gap: 20px;
+    }
+
+    .taxReference p {
+        line-height: 18px;
+    }
+
+    .taxReference h2 {
+        margin: 35px 0 25px;
+    }
+
+    .headerBlock h1 {
+        font-size: 24px;
+    }
+
+    .headerBlock_readPdf {
+        width: 100%;
+        text-align: center;
+    }
+}

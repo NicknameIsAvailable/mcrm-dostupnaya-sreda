@@ -1,0 +1,60 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"О центре",
+		"/about/",
+		Array(),
+		Array(),
+		""
+	),
+	Array(
+		"Услуги",
+		"/services/",
+		Array(),
+		Array(),
+		""
+	),
+	Array(
+		"Цены и акции",
+		"/prices-and-actions/",
+		Array(),
+		Array(),
+		""
+	),
+	Array(
+		"Пациентам",
+		"/patients/",
+		Array(),
+		Array(),
+		""
+	),
+	Array(
+		"Донорам",
+		"/donors/",
+		Array(),
+		Array(),
+		""
+	),
+	Array(
+		"Специалистам",
+		"/experts/",
+		Array(),
+		Array(),
+		""
+	),
+	Array(
+		"Энциклопедия",
+		"/encyclopedia/",
+		Array(),
+		Array(),
+		""
+	),
+	Array(
+		"Контакты",
+		"/contacts/",
+		Array(),
+		Array(),
+		""
+	)
+);
+?>

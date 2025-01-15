@@ -1,0 +1,57 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001735329703';
+$dateexpire = '001766865703';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";O:28:"Mcrm\\Model\\Services\\Category":11:{s:7:"appends";a:2:{i:0;s:7:"picture";i:1;s:24:"showServiceTypesOnPrices";}s:24:"'.chr(0).'*'.chr(0).'fieldsSelectedForSave";a:0:{}s:14:"'.chr(0).'*'.chr(0).'eventErrors";a:0:{}s:19:"'.chr(0).'*'.chr(0).'fieldsAreFetched";b:1;s:2:"id";s:3:"185";s:6:"fields";a:20:{s:2:"ID";s:3:"185";s:4:"NAME";s:13:"Genetic Tests";s:4:"CODE";s:13:"genetic-tests";s:7:"PICTURE";s:4:"2833";s:11:"DESCRIPTION";s:113:"Pre-implantation genetic testing (PGT) and screening (PGS) and other genetic and molecular-genetic investigations";s:16:"SECTION_PAGE_URL";s:24:"/services/genetic-tests/";s:9:"IBLOCK_ID";s:2:"90";s:16:"DESCRIPTION_TYPE";s:4:"html";s:11:"EXTERNAL_ID";s:0:"";s:14:"IBLOCK_TYPE_ID";s:11:"services_en";s:11:"IBLOCK_CODE";s:8:"services";s:18:"IBLOCK_EXTERNAL_ID";s:0:"";s:13:"GLOBAL_ACTIVE";s:1:"Y";s:4:"SORT";s:2:"30";s:7:"UF_ICON";s:6:"menu-9";s:15:"UF_SHOW_ON_MAIN";s:1:"1";s:17:"UF_SHOW_ON_PRICES";s:1:"0";s:8:"UF_VIDEO";N;s:20:"UF_SHOW_TYPES_PRICES";s:1:"0";s:14:"UF_DESCRIPTION";s:2474:"&lt;h2&gt;Why are genetic tests important for pregnancy?&lt;/h2&gt;
+&lt;p&gt;Why is&nbsp;it&nbsp;important for any couple to&nbsp;see a&nbsp;genetic counselor at&nbsp;the stage of&nbsp;family planning? What can be&nbsp;found from genetic tests?&lt;/p&gt;
+&lt;p&gt;IVF followed by&nbsp;preimplantation genetic testing is&nbsp;performed to&nbsp;select only those embryos that have not inherited a&nbsp;genetic condition.&lt;/p&gt;
+
+&lt;p&gt;Genetic testing within an&nbsp;IVF treatment program can help to&nbsp;find a&nbsp;healthy embryo and transfer it&nbsp;into the uterus. This will make the chances for successful pregnancy higher. There are two types of&nbsp;preimplantation genetic testing:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;genetic diagnosis (PGD);&lt;/li&gt;
+  &lt;li&gt;genetic screening (PGS).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;What is&nbsp;the purpose of&nbsp;genetic tests within an&nbsp;IVF program?&lt;/h2&gt;
+&lt;p&gt;PGD is&nbsp;required when both parents have a&nbsp;gene mutation or&nbsp;a&nbsp;chromosomal rearrangement. In&nbsp;such cases, there is&nbsp;a&nbsp;high risk of&nbsp;a&nbsp;genetic condition in&nbsp;a&nbsp;future baby. Genetic diagnosis can help to&nbsp;reveal and exclude it&nbsp;in&nbsp;an&nbsp;embryo. The embryos that did not pass the diagnostic procedure are not transferred.&lt;/p&gt;
+&lt;p&gt;To&nbsp;select an&nbsp;embryo, genetic screening is&nbsp;not required. The procedure is&nbsp;recommended in&nbsp;the following cases:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;severe male infertility;&lt;/li&gt;
+  &lt;li&gt;miscarriages in&nbsp;the history;&lt;/li&gt;
+  &lt;li&gt;IVF failures.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;PGS is&nbsp;possible to&nbsp;do&nbsp;in&nbsp;the case parents want&nbsp;to:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;find out the sex of&nbsp;a&nbsp;future child;&lt;/li&gt;
+  &lt;li&gt;exclude late-onset diseases like Alzheimer&rsquo;s;&lt;/li&gt;
+  &lt;li&gt;exclude non-life threatening diseases;&lt;/li&gt;
+  &lt;li&gt;find out about genetic predispositions in&nbsp;a&nbsp;future baby.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The essence of&nbsp;every method of&nbsp;genetic screening is&nbsp;investigation of&nbsp;cell chromosomal structure and functions performed at&nbsp;any stage of&nbsp;their life.&lt;/p&gt;
+&lt;p&gt;Our genetic counselor provides consultations to&nbsp;the patients planning a&nbsp;family, and refers to&nbsp;necessary genetic tests to&nbsp;make sure you have a&nbsp;healthy child.&lt;/p&gt;";}s:11:"'.chr(0).'*'.chr(0).'original";a:20:{s:2:"ID";s:3:"185";s:4:"NAME";s:13:"Genetic Tests";s:4:"CODE";s:13:"genetic-tests";s:7:"PICTURE";s:4:"2833";s:11:"DESCRIPTION";s:113:"Pre-implantation genetic testing (PGT) and screening (PGS) and other genetic and molecular-genetic investigations";s:16:"SECTION_PAGE_URL";s:24:"/services/genetic-tests/";s:9:"IBLOCK_ID";s:2:"90";s:16:"DESCRIPTION_TYPE";s:4:"html";s:11:"EXTERNAL_ID";s:0:"";s:14:"IBLOCK_TYPE_ID";s:11:"services_en";s:11:"IBLOCK_CODE";s:8:"services";s:18:"IBLOCK_EXTERNAL_ID";s:0:"";s:13:"GLOBAL_ACTIVE";s:1:"Y";s:4:"SORT";s:2:"30";s:7:"UF_ICON";s:6:"menu-9";s:15:"UF_SHOW_ON_MAIN";s:1:"1";s:17:"UF_SHOW_ON_PRICES";s:1:"0";s:8:"UF_VIDEO";N;s:20:"UF_SHOW_TYPES_PRICES";s:1:"0";s:14:"UF_DESCRIPTION";s:2474:"&lt;h2&gt;Why are genetic tests important for pregnancy?&lt;/h2&gt;
+&lt;p&gt;Why is&nbsp;it&nbsp;important for any couple to&nbsp;see a&nbsp;genetic counselor at&nbsp;the stage of&nbsp;family planning? What can be&nbsp;found from genetic tests?&lt;/p&gt;
+&lt;p&gt;IVF followed by&nbsp;preimplantation genetic testing is&nbsp;performed to&nbsp;select only those embryos that have not inherited a&nbsp;genetic condition.&lt;/p&gt;
+
+&lt;p&gt;Genetic testing within an&nbsp;IVF treatment program can help to&nbsp;find a&nbsp;healthy embryo and transfer it&nbsp;into the uterus. This will make the chances for successful pregnancy higher. There are two types of&nbsp;preimplantation genetic testing:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;genetic diagnosis (PGD);&lt;/li&gt;
+  &lt;li&gt;genetic screening (PGS).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;What is&nbsp;the purpose of&nbsp;genetic tests within an&nbsp;IVF program?&lt;/h2&gt;
+&lt;p&gt;PGD is&nbsp;required when both parents have a&nbsp;gene mutation or&nbsp;a&nbsp;chromosomal rearrangement. In&nbsp;such cases, there is&nbsp;a&nbsp;high risk of&nbsp;a&nbsp;genetic condition in&nbsp;a&nbsp;future baby. Genetic diagnosis can help to&nbsp;reveal and exclude it&nbsp;in&nbsp;an&nbsp;embryo. The embryos that did not pass the diagnostic procedure are not transferred.&lt;/p&gt;
+&lt;p&gt;To&nbsp;select an&nbsp;embryo, genetic screening is&nbsp;not required. The procedure is&nbsp;recommended in&nbsp;the following cases:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;severe male infertility;&lt;/li&gt;
+  &lt;li&gt;miscarriages in&nbsp;the history;&lt;/li&gt;
+  &lt;li&gt;IVF failures.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;PGS is&nbsp;possible to&nbsp;do&nbsp;in&nbsp;the case parents want&nbsp;to:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;find out the sex of&nbsp;a&nbsp;future child;&lt;/li&gt;
+  &lt;li&gt;exclude late-onset diseases like Alzheimer&rsquo;s;&lt;/li&gt;
+  &lt;li&gt;exclude non-life threatening diseases;&lt;/li&gt;
+  &lt;li&gt;find out about genetic predispositions in&nbsp;a&nbsp;future baby.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The essence of&nbsp;every method of&nbsp;genetic screening is&nbsp;investigation of&nbsp;cell chromosomal structure and functions performed at&nbsp;any stage of&nbsp;their life.&lt;/p&gt;
+&lt;p&gt;Our genetic counselor provides consultations to&nbsp;the patients planning a&nbsp;family, and refers to&nbsp;necessary genetic tests to&nbsp;make sure you have a&nbsp;healthy child.&lt;/p&gt;";}s:20:"'.chr(0).'*'.chr(0).'languageAccessors";a:0:{}s:7:"related";a:1:{s:5:"video";N;}s:9:"'.chr(0).'*'.chr(0).'hidden";a:0:{}s:10:"'.chr(0).'*'.chr(0).'visible";a:0:{}}}';
+return true;
+?>

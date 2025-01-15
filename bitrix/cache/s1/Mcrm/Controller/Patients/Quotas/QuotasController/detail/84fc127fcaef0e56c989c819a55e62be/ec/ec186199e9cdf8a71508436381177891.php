@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001731718519';
+$dateexpire = '001763254519';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:2:{i:3475;a:12:{s:2:"ID";s:4:"3475";s:4:"NAME";s:54:"Комиссия по отбору пациентов:";s:12:"PREVIEW_TEXT";s:234:"ГБУЗ АО «Архангельская областная клиническая больница»: 163045, г. Архангельск, пр. Ломоносова, 292 (с пометкой отдел ВСМП), +7 (8182) 24-12-18";s:21:"PROPERTY_REGION_VALUE";s:3:"393";s:24:"PROPERTY_REGION_VALUE_ID";s:7:"3475:86";s:19:"PROPERTY_FILE_VALUE";a:3:{s:3:"url";N;s:9:"extension";s:0:"";s:11:"is_external";b:1;}s:22:"PROPERTY_FILE_VALUE_ID";s:7:"3475:88";s:18:"PROPERTY_URL_VALUE";N;s:21:"PROPERTY_URL_VALUE_ID";s:8:"3475:393";s:9:"IBLOCK_ID";s:2:"33";s:4:"SORT";s:3:"500";s:17:"PREVIEW_TEXT_TYPE";s:4:"html";}i:3626;a:12:{s:2:"ID";s:4:"3626";s:4:"NAME";s:59:"Скачать лист ожидания ЭКО по ОМС";s:12:"PREVIEW_TEXT";s:0:"";s:21:"PROPERTY_REGION_VALUE";s:3:"393";s:24:"PROPERTY_REGION_VALUE_ID";s:7:"3626:86";s:19:"PROPERTY_FILE_VALUE";a:3:{s:3:"url";s:64:"https://www.minzdrav29.ru/ministry/Works_with_citizens/list_EKO/";s:9:"extension";s:0:"";s:11:"is_external";b:1;}s:22:"PROPERTY_FILE_VALUE_ID";s:7:"3626:88";s:18:"PROPERTY_URL_VALUE";s:64:"https://www.minzdrav29.ru/ministry/Works_with_citizens/list_EKO/";s:21:"PROPERTY_URL_VALUE_ID";s:8:"3626:393";s:9:"IBLOCK_ID";s:2:"33";s:4:"SORT";s:3:"500";s:17:"PREVIEW_TEXT_TYPE";s:4:"html";}}}';
+return true;
+?>

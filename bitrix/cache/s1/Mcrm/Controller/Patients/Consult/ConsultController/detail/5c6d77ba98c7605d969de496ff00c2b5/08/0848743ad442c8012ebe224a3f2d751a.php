@@ -1,0 +1,42 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001736683780';
+$dateexpire = '001768219780';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:2:{s:4:"data";a:3:{i:34512;a:5:{s:15:"DETAIL_PAGE_URL";s:24:"/patients/consult/34512/";s:16:"isAnswererClinic";b:1;s:8:"answerer";a:4:{s:5:"image";a:2:{s:8:"ORIGINAL";s:29:"/upload/images/logo-short.png";s:7:"resized";s:29:"/upload/images/logo-short.png";}s:4:"name";s:8:"МЦРМ";s:8:"position";s:0:"";s:2:"id";s:0:"";}s:8:"question";a:7:{s:5:"title";s:12:"Вопрос";s:4:"name";s:8:"Анна";s:5:"image";s:0:"";s:8:"position";s:0:"";s:4:"text";s:251:"Добрый день! Появились дед и жжение на внешних половых губах и вульве,выделений нет. Как помочь себе,если нет возможности попасть к врачу?";s:5:"files";s:0:"";s:4:"date";s:19:"1 апреля 2020";}s:6:"answer";a:8:{s:5:"title";s:10:"Ответ";s:4:"name";s:8:"МЦРМ";s:5:"image";a:2:{s:8:"ORIGINAL";s:29:"/upload/images/logo-short.png";s:7:"resized";s:29:"/upload/images/logo-short.png";}s:8:"position";s:0:"";s:4:"text";s:214:"Анна, добрый день!
+К сожалению, без очной консультации предположить, что это может быть и как Вам помочь невозможно. 
+";s:5:"files";s:0:"";s:4:"date";s:19:"1 апреля 2020";s:13:"specialist_id";s:0:"";}}i:6344;a:5:{s:15:"DETAIL_PAGE_URL";s:23:"/patients/consult/6344/";s:16:"isAnswererClinic";b:1;s:8:"answerer";a:4:{s:5:"image";a:2:{s:8:"ORIGINAL";s:29:"/upload/images/logo-short.png";s:7:"resized";s:29:"/upload/images/logo-short.png";}s:4:"name";s:8:"МЦРМ";s:8:"position";s:0:"";s:2:"id";s:0:"";}s:8:"question";a:7:{s:5:"title";s:12:"Вопрос";s:4:"name";s:6:"ЕЛА";s:5:"image";s:0:"";s:8:"position";s:0:"";s:4:"text";s:282:"Здравствуйте доктор мне делоли эко 24.04.2014. Чила было перисатка уменя 1.05.2014.числа утром научилось тошнота ето  плохо или как я ешо не здала ХГ зарание спосбо";s:5:"files";s:0:"";s:4:"date";s:13:"1 мая 2014";}s:6:"answer";a:8:{s:5:"title";s:10:"Ответ";s:4:"name";s:8:"МЦРМ";s:5:"image";a:2:{s:8:"ORIGINAL";s:29:"/upload/images/logo-short.png";s:7:"resized";s:29:"/upload/images/logo-short.png";}s:8:"position";s:0:"";s:4:"text";s:218:"Здравствуйте, Ела!
+Сдайте  анализ крови на ХГч в назначенный день и свяжитесь по результатам с Вашим лечащим доктором.
+";s:5:"files";s:0:"";s:4:"date";s:13:"1 мая 2014";s:13:"specialist_id";s:0:"";}}i:11963;a:5:{s:15:"DETAIL_PAGE_URL";s:24:"/patients/consult/11963/";s:16:"isAnswererClinic";b:0;s:8:"answerer";a:4:{s:5:"image";a:18:{s:8:"ORIGINAL";s:52:"/upload/main/904/042A6510-kopiya-_1_-_1_-_1_-_1_.png";s:13:"webp_ORIGINAL";s:75:"/upload/resize_cache/main/904/0_0_1_95/042A6510-kopiya-_1_-_1_-_1_-_1_.webp";s:9:"100_100_P";s:75:"/upload/resize_cache/main/904/100_100_1/042A6510-kopiya-_1_-_1_-_1_-_1_.png";s:14:"webp_100_100_P";s:79:"/upload/resize_cache/main/904/100_100_1_95/042A6510-kopiya-_1_-_1_-_1_-_1_.webp";s:19:"quotas_registration";s:75:"/upload/resize_cache/main/904/190_200_1/042A6510-kopiya-_1_-_1_-_1_-_1_.png";s:24:"webp_quotas_registration";s:79:"/upload/resize_cache/main/904/190_200_1_95/042A6510-kopiya-_1_-_1_-_1_-_1_.webp";s:15:"specialist_list";s:75:"/upload/resize_cache/main/904/352_304_1/042A6510-kopiya-_1_-_1_-_1_-_1_.png";s:20:"webp_specialist_list";s:79:"/upload/resize_cache/main/904/352_304_1_95/042A6510-kopiya-_1_-_1_-_1_-_1_.webp";s:19:"specialist_list_big";s:52:"/upload/main/904/042A6510-kopiya-_1_-_1_-_1_-_1_.png";s:24:"webp_specialist_list_big";s:79:"/upload/resize_cache/main/904/568_548_1_95/042A6510-kopiya-_1_-_1_-_1_-_1_.webp";s:24:"specialist_detail_header";s:52:"/upload/main/904/042A6510-kopiya-_1_-_1_-_1_-_1_.png";s:29:"webp_specialist_detail_header";s:79:"/upload/resize_cache/main/904/448_471_1_95/042A6510-kopiya-_1_-_1_-_1_-_1_.webp";s:26:"specialist_detail_schedule";s:75:"/upload/resize_cache/main/904/320_436_1/042A6510-kopiya-_1_-_1_-_1_-_1_.png";s:31:"webp_specialist_detail_schedule";s:79:"/upload/resize_cache/main/904/320_436_1_95/042A6510-kopiya-_1_-_1_-_1_-_1_.webp";s:20:"slider_photo_preview";s:75:"/upload/resize_cache/main/904/438_264_1/042A6510-kopiya-_1_-_1_-_1_-_1_.png";s:25:"webp_slider_photo_preview";s:79:"/upload/resize_cache/main/904/438_264_1_95/042A6510-kopiya-_1_-_1_-_1_-_1_.webp";s:17:"slider_popup_full";s:52:"/upload/main/904/042A6510-kopiya-_1_-_1_-_1_-_1_.png";s:22:"webp_slider_popup_full";s:80:"/upload/resize_cache/main/904/1024_787_1_95/042A6510-kopiya-_1_-_1_-_1_-_1_.webp";}s:4:"name";s:46:"Корнеев Игорь Алексеевич";s:8:"position";s:161:"Главный врач, врач уролог-андролог высшей категории, доктор медицинских наук, профессор";s:2:"id";s:2:"13";}s:8:"question";a:7:{s:5:"title";s:12:"Вопрос";s:4:"name";s:10:"Ирина";s:5:"image";s:0:"";s:8:"position";s:0:"";s:4:"text";s:2159:"Игорь Алексеевич, мы обращалась в центр ЭКО в нашем городе проходили лечение у андролога, но показания становятся то хуже, то стоят на месте, врачи говорят не переживайте все получится, и ни кто о ВРТ ничего не говорит, единственное назначают посткоитальный тест, но я не знаю стоит ли его делать с такими результатами спермограммы, хотелось бы Вашего мнения.
+Спермограмма от 18.06.16 сдавали в центре Эко 
+воздержание 3 дня
+объем 2,1 (норма 2 и более)
+цвет серо-белый (норма молочный)
+рН 7,7 (норма 7,2-7,8)
+разжижение 90 (норма 60 минут)
+вязкость 5 (норма менее 2 см)
+количество 16 (норма 20 млн/мл и более)
+общее количество 33,6 (норма 40 млн и более)
+подвижность:
+быстро прогрессивное 15 (норма 25%)
+медленно 11 (норма 25%)
+не прогрессивное 23
+неподвижные 51
+прогрессивно подвижные 26
+не прогрессивно подвижные 23
+общая подвижность 49 (норма 50 и более)
+морфология по Крюгеру
+нормальных форм 3 (норма 14 и более)
+аномальных форм:
+дефекты головки 69
+дефекты средней части 17
+дефекты хвоста 11
+агрегация 0
+агглютинация 0
+круглые клетки :
+лейкоциты 1 (норма менее 1 млн/мл)
+клетки спермогенеза 0,8 (норма менее 5 млн/мл)
+Заключение патология акросомы 21%
+сдавали 30 апреля 2016 была патология акросомы 15%
+Спасибо Вам большое!";s:5:"files";s:0:"";s:4:"date";s:16:"20 июня 2016";}s:6:"answer";a:8:{s:5:"title";s:10:"Ответ";s:4:"name";s:46:"Корнеев Игорь Алексеевич";s:5:"image";a:18:{s:8:"ORIGINAL";s:52:"/upload/main/904/042A6510-kopiya-_1_-_1_-_1_-_1_.png";s:13:"webp_ORIGINAL";s:75:"/upload/resize_cache/main/904/0_0_1_95/042A6510-kopiya-_1_-_1_-_1_-_1_.webp";s:9:"100_100_P";s:75:"/upload/resize_cache/main/904/100_100_1/042A6510-kopiya-_1_-_1_-_1_-_1_.png";s:14:"webp_100_100_P";s:79:"/upload/resize_cache/main/904/100_100_1_95/042A6510-kopiya-_1_-_1_-_1_-_1_.webp";s:19:"quotas_registration";s:75:"/upload/resize_cache/main/904/190_200_1/042A6510-kopiya-_1_-_1_-_1_-_1_.png";s:24:"webp_quotas_registration";s:79:"/upload/resize_cache/main/904/190_200_1_95/042A6510-kopiya-_1_-_1_-_1_-_1_.webp";s:15:"specialist_list";s:75:"/upload/resize_cache/main/904/352_304_1/042A6510-kopiya-_1_-_1_-_1_-_1_.png";s:20:"webp_specialist_list";s:79:"/upload/resize_cache/main/904/352_304_1_95/042A6510-kopiya-_1_-_1_-_1_-_1_.webp";s:19:"specialist_list_big";s:52:"/upload/main/904/042A6510-kopiya-_1_-_1_-_1_-_1_.png";s:24:"webp_specialist_list_big";s:79:"/upload/resize_cache/main/904/568_548_1_95/042A6510-kopiya-_1_-_1_-_1_-_1_.webp";s:24:"specialist_detail_header";s:52:"/upload/main/904/042A6510-kopiya-_1_-_1_-_1_-_1_.png";s:29:"webp_specialist_detail_header";s:79:"/upload/resize_cache/main/904/448_471_1_95/042A6510-kopiya-_1_-_1_-_1_-_1_.webp";s:26:"specialist_detail_schedule";s:75:"/upload/resize_cache/main/904/320_436_1/042A6510-kopiya-_1_-_1_-_1_-_1_.png";s:31:"webp_specialist_detail_schedule";s:79:"/upload/resize_cache/main/904/320_436_1_95/042A6510-kopiya-_1_-_1_-_1_-_1_.webp";s:20:"slider_photo_preview";s:75:"/upload/resize_cache/main/904/438_264_1/042A6510-kopiya-_1_-_1_-_1_-_1_.png";s:25:"webp_slider_photo_preview";s:79:"/upload/resize_cache/main/904/438_264_1_95/042A6510-kopiya-_1_-_1_-_1_-_1_.webp";s:17:"slider_popup_full";s:52:"/upload/main/904/042A6510-kopiya-_1_-_1_-_1_-_1_.png";s:22:"webp_slider_popup_full";s:80:"/upload/resize_cache/main/904/1024_787_1_95/042A6510-kopiya-_1_-_1_-_1_-_1_.webp";}s:8:"position";s:161:"Главный врач, врач уролог-андролог высшей категории, доктор медицинских наук, профессор";s:4:"text";s:406:"Здравствуйте! Если беременность не получается больше года, то Вам показано обследование у гинеколога-репродуктолога, а мужчине - у уролога. Перед этим в центре ЭКО нужно повторить спермограмму после двух дней воздержания.";s:5:"files";s:0:"";s:4:"date";s:16:"20 июня 2016";s:13:"specialist_id";s:2:"13";}}}s:4:"path";s:18:"/patients/consult/";}}';
+return true;
+?>

@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001735434766';
+$dateexpire = '001766970766';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:2:{s:4:"data";a:1:{i:35682;a:26:{s:2:"ID";s:5:"35682";s:4:"NAME";s:84:"For cancer patients, we offer a 75% discount for cryo storage of biological material";s:12:"PREVIEW_TEXT";s:151:"For cancer patients, we offer a discount for cryo storage of biological material. The discount applies to the first and the following years of storage.";s:11:"ACTIVE_FROM";s:10:"05/08/2020";s:9:"ACTIVE_TO";N;s:15:"DETAIL_PAGE_URL";s:28:"/prices-and-actions/actions/";s:9:"IBLOCK_ID";s:2:"92";s:23:"PROPERTY_SERVICES_VALUE";a:1:{i:0;s:4:"3938";}s:26:"PROPERTY_SPECIALISTS_VALUE";a:0:{}s:29:"PROPERTY_SHOW_ON_PRICES_VALUE";s:1:"1";s:32:"PROPERTY_SHOW_ON_PRICES_VALUE_ID";s:9:"35682:443";s:8:"LANG_DIR";s:1:"/";s:4:"CODE";s:0:"";s:11:"EXTERNAL_ID";s:5:"35682";s:17:"IBLOCK_SECTION_ID";N;s:14:"IBLOCK_TYPE_ID";s:11:"services_en";s:11:"IBLOCK_CODE";s:7:"actions";s:18:"IBLOCK_EXTERNAL_ID";N;s:3:"LID";s:2:"en";s:17:"PREVIEW_TEXT_TYPE";s:4:"html";s:29:"PROPERTY_SERVICES_DESCRIPTION";a:1:{i:0;s:0:"";}s:35:"PROPERTY_SERVICES_PROPERTY_VALUE_ID";a:1:{i:0;s:1:"4";}s:32:"PROPERTY_SPECIALISTS_DESCRIPTION";a:0:{}s:38:"PROPERTY_SPECIALISTS_PROPERTY_VALUE_ID";a:0:{}s:11:"specialists";a:0:{}s:6:"dateTo";s:0:"";}}s:4:"path";s:28:"/prices-and-actions/actions/";}}';
+return true;
+?>

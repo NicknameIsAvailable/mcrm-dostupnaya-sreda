@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001736447852';
+$dateexpire = '001767983852';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:11:{i:63;a:3:{s:2:"id";s:2:"63";s:5:"value";s:17:"Dr. Alana Agnaeva";s:9:"specialty";a:1:{i:0;s:4:"3696";}}i:65;a:3:{s:2:"id";s:2:"65";s:5:"value";s:21:"Dr. Valeria Zagaynova";s:9:"specialty";a:1:{i:0;s:4:"3696";}}i:10;a:3:{s:2:"id";s:2:"10";s:5:"value";s:18:"Dr. Elvira Isakova";s:9:"specialty";a:1:{i:0;s:4:"3696";}}i:50;a:3:{s:2:"id";s:2:"50";s:5:"value";s:22:"Dr. Rinat Temirbulatov";s:9:"specialty";a:1:{i:0;s:4:"3696";}}i:67;a:3:{s:2:"id";s:2:"67";s:5:"value";s:19:"Dr. Elena Krjazheva";s:9:"specialty";a:1:{i:0;s:4:"3696";}}i:4;a:3:{s:2:"id";s:1:"4";s:5:"value";s:23:"Dr. Natalia Bliznyukova";s:9:"specialty";a:1:{i:0;s:4:"3696";}}i:55;a:3:{s:2:"id";s:2:"55";s:5:"value";s:17:"Dr. Darya Platova";s:9:"specialty";a:1:{i:0;s:4:"3696";}}i:66;a:3:{s:2:"id";s:2:"66";s:5:"value";s:22:"Dr. Natalia Chernecova";s:9:"specialty";a:1:{i:0;s:4:"3697";}}i:61;a:3:{s:2:"id";s:2:"61";s:5:"value";s:18:"Dr. Yuriy Ignashov";s:9:"specialty";a:1:{i:0;s:4:"3698";}}i:62;a:3:{s:2:"id";s:2:"62";s:5:"value";s:19:"Dr. Yuriy Pilipenko";s:9:"specialty";a:1:{i:0;s:4:"3696";}}i:28;a:3:{s:2:"id";s:2:"28";s:5:"value";s:20:"Dr. Valentina Savina";s:9:"specialty";a:1:{i:0;s:4:"3696";}}}}';
+return true;
+?>

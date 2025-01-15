@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001735252653';
+$dateexpire = '001766788653';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:1:{s:5:"metro";a:1:{i:0;a:7:{s:8:"ORIGINAL";s:40:"/upload/iblock/968/Map-bus-stops-eng.png";s:13:"webp_ORIGINAL";s:63:"/upload/resize_cache/iblock/968/0_0_1_95/Map-bus-stops-eng.webp";s:20:"slider_photo_preview";s:63:"/upload/resize_cache/iblock/968/438_264_1/Map-bus-stops-eng.png";s:25:"webp_slider_photo_preview";s:67:"/upload/resize_cache/iblock/968/438_264_1_95/Map-bus-stops-eng.webp";s:17:"slider_popup_full";s:64:"/upload/resize_cache/iblock/968/1024_787_1/Map-bus-stops-eng.png";s:22:"webp_slider_popup_full";s:68:"/upload/resize_cache/iblock/968/1024_787_1_95/Map-bus-stops-eng.webp";s:15:"PREVIEW_PICTURE";a:6:{s:8:"ORIGINAL";s:40:"/upload/iblock/968/Map-bus-stops-eng.png";s:13:"webp_ORIGINAL";s:63:"/upload/resize_cache/iblock/968/0_0_1_95/Map-bus-stops-eng.webp";s:20:"slider_photo_preview";s:63:"/upload/resize_cache/iblock/968/438_264_1/Map-bus-stops-eng.png";s:25:"webp_slider_photo_preview";s:67:"/upload/resize_cache/iblock/968/438_264_1_95/Map-bus-stops-eng.webp";s:17:"slider_popup_full";s:64:"/upload/resize_cache/iblock/968/1024_787_1/Map-bus-stops-eng.png";s:22:"webp_slider_popup_full";s:68:"/upload/resize_cache/iblock/968/1024_787_1_95/Map-bus-stops-eng.webp";}}}}}';
+return true;
+?>

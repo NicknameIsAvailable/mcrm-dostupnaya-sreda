@@ -1,0 +1,17 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001736580017';
+$dateexpire = '001768116017';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:2:{s:4:"data";a:3:{i:50215;a:5:{s:15:"DETAIL_PAGE_URL";s:24:"/patients/consult/50215/";s:16:"isAnswererClinic";b:1;s:8:"answerer";a:4:{s:5:"image";a:2:{s:8:"ORIGINAL";s:29:"/upload/images/logo-short.png";s:7:"resized";s:29:"/upload/images/logo-short.png";}s:4:"name";s:8:"МЦРМ";s:8:"position";s:0:"";s:2:"id";s:0:"";}s:8:"question";a:7:{s:5:"title";s:12:"Вопрос";s:4:"name";s:10:"Мария";s:5:"image";s:0:"";s:8:"position";s:0:"";s:4:"text";s:179:"Здравствуйте. Подскажите подскажите, что можно сделать если ноит поясница? Беременность 5 недель. ";s:5:"files";s:0:"";s:4:"date";s:18:"12 марта 2022";}s:6:"answer";a:8:{s:5:"title";s:10:"Ответ";s:4:"name";s:8:"МЦРМ";s:5:"image";a:2:{s:8:"ORIGINAL";s:29:"/upload/images/logo-short.png";s:7:"resized";s:29:"/upload/images/logo-short.png";}s:8:"position";s:0:"";s:4:"text";N;s:5:"files";s:0:"";s:4:"date";s:18:"12 марта 2022";s:13:"specialist_id";s:0:"";}}i:17053;a:5:{s:15:"DETAIL_PAGE_URL";s:24:"/patients/consult/17053/";s:16:"isAnswererClinic";b:1;s:8:"answerer";a:4:{s:5:"image";a:2:{s:8:"ORIGINAL";s:29:"/upload/images/logo-short.png";s:7:"resized";s:29:"/upload/images/logo-short.png";}s:4:"name";s:8:"МЦРМ";s:8:"position";s:0:"";s:2:"id";s:0:"";}s:8:"question";a:7:{s:5:"title";s:12:"Вопрос";s:4:"name";s:18:"Анастасия";s:5:"image";s:0:"";s:8:"position";s:0:"";s:4:"text";s:605:"Менструальный цикл после эскапела.
+Здравствуйте 9.03. произошел не защищеный ПА (порвался презерватив). Эскапел приняла 10.03. Месячные пришли с задержкой в 7-8 дней. Т.е должны были быть 18-19.03, а начались 26.03. Скажите пожалуйста, в этом месяце когда их ожидать? На календаре 19.04. Отсчитывать цикл нужно после задержки или же как и раньше 18-19?";s:5:"files";s:0:"";s:4:"date";s:20:"19 апреля 2019";}s:6:"answer";a:8:{s:5:"title";s:10:"Ответ";s:4:"name";s:8:"МЦРМ";s:5:"image";a:2:{s:8:"ORIGINAL";s:29:"/upload/images/logo-short.png";s:7:"resized";s:29:"/upload/images/logo-short.png";}s:8:"position";s:0:"";s:4:"text";s:141:"Здравствуйте! Учитывая всю Вашу ситуацию, новый цикл нужно отсчитывать от 26.03";s:5:"files";s:0:"";s:4:"date";s:20:"19 апреля 2019";s:13:"specialist_id";s:0:"";}}i:29058;a:5:{s:15:"DETAIL_PAGE_URL";s:24:"/patients/consult/29058/";s:16:"isAnswererClinic";b:1;s:8:"answerer";a:4:{s:5:"image";a:2:{s:8:"ORIGINAL";s:29:"/upload/images/logo-short.png";s:7:"resized";s:29:"/upload/images/logo-short.png";}s:4:"name";s:8:"МЦРМ";s:8:"position";s:0:"";s:2:"id";s:0:"";}s:8:"question";a:7:{s:5:"title";s:12:"Вопрос";s:4:"name";s:8:"Анна";s:5:"image";s:0:"";s:8:"position";s:0:"";s:4:"text";s:452:"Здравствуйте. Помогите расшифровать показатели. 
+Значения:
+Уреаплазма (Ureaplasma species,ПЦР) - 9,0x10*3
+Уреаплазма U.Urealyticum - 9,0х10*3
+Герднерелла - 4,3х10*6
+Микоплазма - 0
+Хламидии - 0
+Ед. Измерения ед.копий/10*5 эпителиальных клеток
+На что указывают эти результаты?
+";s:5:"files";s:0:"";s:4:"date";s:20:"24 января 2020";}s:6:"answer";a:8:{s:5:"title";s:10:"Ответ";s:4:"name";s:8:"МЦРМ";s:5:"image";a:2:{s:8:"ORIGINAL";s:29:"/upload/images/logo-short.png";s:7:"resized";s:29:"/upload/images/logo-short.png";}s:8:"position";s:0:"";s:4:"text";s:179:"Из всего этого лечения требует только гарднереллу. Заболевание называется бактериальный вагиноз";s:5:"files";s:0:"";s:4:"date";s:20:"24 января 2020";s:13:"specialist_id";s:0:"";}}}s:4:"path";s:18:"/patients/consult/";}}';
+return true;
+?>

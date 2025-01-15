@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001735249127';
+$dateexpire = '001766785127';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:5:{i:24701;a:7:{s:2:"ID";s:5:"24701";s:4:"NAME";s:2:"VK";s:4:"CODE";s:2:"vk";s:9:"IBLOCK_ID";s:2:"74";s:18:"PROPERTY_URL_VALUE";s:21:"https://vk.com/mcrmru";s:21:"PROPERTY_URL_VALUE_ID";s:9:"24701:394";s:4:"SORT";s:3:"500";}i:24702;a:7:{s:2:"ID";s:5:"24702";s:4:"NAME";s:7:"Youtube";s:4:"CODE";s:7:"youtube";s:9:"IBLOCK_ID";s:2:"74";s:18:"PROPERTY_URL_VALUE";s:56:"https://www.youtube.com/channel/UCYZ11WKElith9k6AiXlrFow";s:21:"PROPERTY_URL_VALUE_ID";s:9:"24702:394";s:4:"SORT";s:3:"500";}i:24703;a:7:{s:2:"ID";s:5:"24703";s:4:"NAME";s:8:"Facebook";s:4:"CODE";s:8:"facebook";s:9:"IBLOCK_ID";s:2:"74";s:18:"PROPERTY_URL_VALUE";s:31:"https://www.facebook.com/mcrmru";s:21:"PROPERTY_URL_VALUE_ID";s:9:"24703:394";s:4:"SORT";s:3:"500";}i:24704;a:7:{s:2:"ID";s:5:"24704";s:4:"NAME";s:9:"Instagram";s:4:"CODE";s:9:"instagram";s:9:"IBLOCK_ID";s:2:"74";s:18:"PROPERTY_URL_VALUE";s:34:"https://www.instagram.com/mcrm.ru/";s:21:"PROPERTY_URL_VALUE_ID";s:9:"24704:394";s:4:"SORT";s:3:"500";}i:24705;a:7:{s:2:"ID";s:5:"24705";s:4:"NAME";s:2:"Ok";s:4:"CODE";s:2:"ok";s:9:"IBLOCK_ID";s:2:"74";s:18:"PROPERTY_URL_VALUE";s:48:"http://www.odnoklassniki.ru/group/51950389035260";s:21:"PROPERTY_URL_VALUE_ID";s:9:"24705:394";s:4:"SORT";s:3:"500";}}}';
+return true;
+?>
